@@ -9,8 +9,16 @@ __OBJECTIFS__
 
 ---
 
-### SOURCES
+__SOURCES__
 
 > Le site avant optimisation : [La Chouette agence](https://flo654.github.io/DWJP4-optimise/index.html) <br/>
-> Le site optimisé: [La Chouette agence](https://flo654.github.io/DWJP4-original/index.html)
+> Le site optimisé: [La Chouette agence](https://flo654.github.io/DWJP4-original/index.html) <br/>
+> Rapport d'audit SEO : [lighthouse] . <br/>
+* Avant optimisation (https://flo654.github.io/DWJP4-original/index.html). <br/>
+Apres optimisation (https://flo654.github.io/DWJP4-original/index.html). <br/>
+<br/>
+> Rapport vitesse de chargement du site web : [gtmetrix] .<br/>
+Avant optimisation (https://flo654.github.io/DWJP4-original/index.html). <br/>
+Avant optimisation (https://flo654.github.io/DWJP4-original/index.html). <br/>
+
 ---
