@@ -11,6 +11,6 @@ __OBJECTIFS__
 
 ### SOURCES
 
-> Le site avant optimisation : [La Chouette agence](https://flo654.github.io/DWJP4-optimise/index.html) 
+> Le site avant optimisation : [La Chouette agence](https://flo654.github.io/DWJP4-optimise/index.html) <br/>
 > Le site optimisé: [La Chouette agence](https://flo654.github.io/DWJP4-original/index.html)
 ---
