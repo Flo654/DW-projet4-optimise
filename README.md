@@ -15,11 +15,11 @@ __SOURCES__
 > Le site optimisé: [La Chouette agence](https://flo654.github.io/DWJP4-original/index.html) <br/>
 <br/>
 > Rapport d'audit SEO : [lighthouse]  <br/>
-* Avant optimisation (https://flo654.github.io/DWJP4-original/index.html). <br/>
-* Apres optimisation (https://flo654.github.io/DWJP4-optimise/index.html). <br/>
+* Avant optimisation (https://drive.google.com/file/d/177MbtyLx1DGSf1FvXcmxAhQarmOPG2iE/view?usp=sharing). <br/>
+* Apres optimisation (https://drive.google.com/file/d/1viHFZcSt1tL7Ms2rZq-hPTQ9tNM-kQo6/view?usp=sharing). <br/>
 <br/>
 > Rapport vitesse de chargement du site web : [gtmetrix] <br/>
-* Avant optimisation (https://flo654.github.io/DWJP4-original/index.html) <br/>
-* Avant optimisation (https://flo654.github.io/DWJP4-original/index.html) <br/>
+* Avant optimisation (https://drive.google.com/file/d/1e2n-0A1Eogis45RqMNrq1OZlwoCLJ584/view?usp=sharing) <br/>
+* Avant optimisation https://drive.google.com/file/d/177MbtyLx1DGSf1FvXcmxAhQarmOPG2iE/view?usp=sharing) <br/>
 
 ---
