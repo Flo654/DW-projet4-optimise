@@ -11,8 +11,8 @@ __OBJECTIFS__
 
 __SOURCES__
 
-> Le site avant optimisation : [La Chouette agence](https://flo654.github.io/DWJP4-optimise/index.html) <br/>
-> Le site optimisé: [La Chouette agence](https://flo654.github.io/DWJP4-original/index.html) <br/>
+> Le site avant optimisation : [La Chouette agence](https://flo654.github.io/DWJP4-original/index.html) <br/>
+> Le site optimisé: [La Chouette agence](https://flo654.github.io/DWJP4-optimise/index.html) <br/>
 <br/>
 > Rapport d'audit SEO : [lighthouse]  <br/>
 * Avant optimisation (https://drive.google.com/file/d/177MbtyLx1DGSf1FvXcmxAhQarmOPG2iE/view?usp=sharing). <br/>
